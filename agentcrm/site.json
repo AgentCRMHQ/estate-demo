@@ -1,6 +1,6 @@
 {
   "engine": "1.1.0",
-  "site_id": "6e0d3aa0-1a20-46eb-a7eb-d32c7d78e6d7",
+  "site_id": "70a9fa2f-dfa2-4bd5-ab1d-dde2f1bc722a",
   "content": {
     "schema_version": 1,
     "theme": "estate",
@@ -47,16 +47,47 @@
     "gallery": [],
     "widgets": {
       "chat": false,
+      "newsletter": false,
       "contact_form": null,
       "booking_form": null
     },
-    "seo": {
-      "description": "",
-      "title": "AgentCRM Estate Demo"
-    },
     "property_catalogue": {
       "schema_version": 1,
-      "properties": []
+      "properties": [
+        {
+          "slug": "demo-garden-apartment",
+          "title": "DEMO — Garden Apartment",
+          "type": "apartment",
+          "purpose": "sale",
+          "status": "available",
+          "price": null,
+          "currency": "INR",
+          "location": "Demo neighbourhood",
+          "address": "",
+          "description": "Fictional demonstration listing for AgentCRM publishing. This apartment is not a real property and is not offered for sale or rent. Example features: two bedrooms, a balcony and shared gardens.",
+          "seo_description": "Fictional AgentCRM demo property — not a real offer.",
+          "bedrooms": null,
+          "bathrooms": null,
+          "area": null,
+          "area_unit": "sq-ft",
+          "furnishing": "not-specified",
+          "featured": false,
+          "amenities": [
+            "Demo balcony",
+            "Demo shared garden"
+          ],
+          "photos": [
+            {
+              "id": "d650b94a-fd60-4c36-6586-f92af87a0c7b",
+              "alt": "DEMO — Garden Apartment · property photo"
+            }
+          ]
+        }
+      ]
+    },
+    "seo": {
+      "title": "AgentCRM Estate Demo",
+      "description": ""
     }
   }
 }
