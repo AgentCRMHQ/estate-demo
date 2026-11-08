@@ -1,0 +1,62 @@
+{
+  "engine": "1.1.0",
+  "site_id": "6e0d3aa0-1a20-46eb-a7eb-d32c7d78e6d7",
+  "content": {
+    "schema_version": 1,
+    "theme": "estate",
+    "industry": "real-estate",
+    "company": {
+      "name": "AgentCRM Estate Demo",
+      "tagline": "A demonstration of property publishing with AgentCRM",
+      "description": "Demonstration website only. All listings are fictional examples, not properties offered for sale or rent.",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "hours": ""
+    },
+    "pages": [
+      {
+        "id": "home",
+        "slug": "index",
+        "title": "Home",
+        "heading": "Explore the AgentCRM property website demo",
+        "body": "Demonstration website only. All listings are fictional examples, not properties offered for sale or rent.",
+        "navigation": true,
+        "enabled": true
+      },
+      {
+        "id": "about",
+        "slug": "about",
+        "title": "About",
+        "heading": "About AgentCRM Estate Demo",
+        "body": "This demo demonstrates how AgentCRM Property Manager and Website Manager prepare and publish property listings. No real brokerage or property offers are represented.",
+        "navigation": true,
+        "enabled": true
+      },
+      {
+        "id": "services",
+        "slug": "services",
+        "title": "Services",
+        "heading": "How we can help",
+        "body": "Demo catalogue, property details and website publishing. No real services are offered.",
+        "navigation": true,
+        "enabled": true
+      }
+    ],
+    "posts": [],
+    "gallery": [],
+    "widgets": {
+      "chat": false,
+      "contact_form": null,
+      "booking_form": null
+    },
+    "seo": {
+      "description": "",
+      "title": "AgentCRM Estate Demo"
+    },
+    "property_catalogue": {
+      "schema_version": 1,
+      "properties": []
+    }
+  }
+}
