@@ -1,5 +1,5 @@
 {
-  "engine": "1.1.0",
+  "engine": "1.2.0",
   "site_id": "70a9fa2f-dfa2-4bd5-ab1d-dde2f1bc722a",
   "content": {
     "schema_version": 1,
@@ -48,8 +48,8 @@
     "widgets": {
       "chat": false,
       "newsletter": false,
-      "contact_form": null,
-      "booking_form": null
+      "contact_form": 1,
+      "booking_form": 2
     },
     "property_catalogue": {
       "schema_version": 1,
