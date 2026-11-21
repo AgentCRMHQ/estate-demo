@@ -1,9 +1,9 @@
 {
-  "engine": "1.2.0",
+  "engine": "1.3.0",
   "site_id": "70a9fa2f-dfa2-4bd5-ab1d-dde2f1bc722a",
   "content": {
     "schema_version": 1,
-    "theme": "estate",
+    "theme": "metro",
     "industry": "real-estate",
     "company": {
       "name": "AgentCRM Estate Demo",
@@ -20,7 +20,7 @@
         "slug": "index",
         "title": "Home",
         "heading": "Explore the AgentCRM property website demo",
-        "body": "Demonstration website only. All listings are fictional examples, not properties offered for sale or rent.",
+        "body": "Demonstration website only. All listings are fictional examples, not properties offered for sale or rent. New Delhi",
         "navigation": true,
         "enabled": true
       },
@@ -77,10 +77,6 @@
             "Demo shared garden"
           ],
           "photos": [
-            {
-              "id": "d650b94a-fd60-4c36-6586-f92af87a0c7b",
-              "alt": "DEMO — Garden Apartment · property photo"
-            },
             {
               "id": "ac7cb7c5-64b3-33b1-d637-ca40b46e4405",
               "alt": "DEMO — Garden Apartment · property photo"
